@@ -1,0 +1,8 @@
+site_name: Arsh24's Writeups
+repo_url: https://github.com/arshZ0/writeups
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: black
+  logo: ./assets/logo.png
